@@ -8,7 +8,7 @@
 
 - 💬 Feel free to reach out, **would love to help..!!**
 
-- 📫 How to reach me **aamirsohail763@gmail.com**
+- 📫 Reach me @ **aamirsohail763@gmail.com**
 
 - ⚡ Fun fact **I code stuff..!!**
 
