@@ -2,13 +2,15 @@
 <h3 align="center">An Aspiring Java Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
 
-- 🔭 I’m currently working on **MySQL**
+- 📋 I’m currently working on **MySQL**
 
 - 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Feel free to reach out, **would love to help..!!**
 
-- 📫 Reach me @ **aamirsohail763@gmail.com**
+- 📧 Reach me @ **aamirsohail763@gmail.com**
+
+- 💻 Know more about me **[here](https://aamirsohail763.github.io/)**
 
 - ⚡ Fun fact **I code stuff..!!**
 
@@ -28,5 +30,5 @@
   <img aling="left" src="https://skillicons.dev/icons?i=java,mysql,spring,maven,hibernate,html,css,js,git" alt="My Skills"/>
   <hr width="50%"/>
    <h3>Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamirsohail763&theme=dark" alt="GitHub stats"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AamirSohail763&theme=prussian&background=1B1D23" alt="GitHub stats"/>
 </div>
