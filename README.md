@@ -10,7 +10,7 @@
 
 - 📧 Reach me @ **aamirsohail763@gmail.com**
 
-- 💻 Know more about me **[here](https://aamirsohail763.github.io/)**
+- 💻 Check out my Portfolio **[here](https://aamirsohail763.github.io/)**
 
 - ⚡ Fun fact **I code stuff..!!**
 
