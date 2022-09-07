@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Java Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
 
-- 📋 I’m currently working on **MySQL**
+- 📋 I’m currently working on **Hibernate**
 
 - 🌱 I’m currently learning **SpringBoot**
 
@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/aamir763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamir763" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aamirsohail763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aamirsohail763" height="30" width="40" /></a>
-<a href="https://www.instagram.com/so.hail.aamir/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aamirsohail763" height="30" width="40" /></a>
 </p>
 
 
