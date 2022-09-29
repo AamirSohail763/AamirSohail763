@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Java Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
 
-- 📋 I’m currently working on **Hibernate**
+- 📋 I’m currently working on **Spring Applications**
 
 - 🌱 I’m currently learning **SpringBoot**
 
