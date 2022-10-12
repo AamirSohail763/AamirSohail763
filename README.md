@@ -23,7 +23,7 @@
 
 <div align="center">
  
-  <h3>My Skills</h3>
+  <h3>My Skills &nbsp; <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" height="24px" align="center" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h3>
   <img aling="left" src="https://skillicons.dev/icons?i=java,mysql,spring,maven,hibernate,html,css,js,git" alt="My Skills"/>
   <hr width="50%"/>
   <h3>My GitHub Stats</h3>
