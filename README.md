@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aamir</h1>
 <h3 align="center">An Aspiring Java Backend Developer</h3>
-<img align="right" alt="Coding" width="325" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+<img align="right" alt="Coding" width="310" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 
 - 📋 I’m currently working on **Spring Applications**
 
